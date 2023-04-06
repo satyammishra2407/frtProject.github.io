@@ -29,3 +29,5 @@ In my website, I have tell all the practices help countries grow in ways that ad
 
 ## Project demo Vedio Url : https://youtu.be/fpaaCsMunAw
 
+## Azure Link : https://black-cliff-0f202ea10.2.azurestaticapps.net/
+
