@@ -25,8 +25,12 @@ In my website, I have tell all the practices help countries grow in ways that ad
 
 ![image](https://user-images.githubusercontent.com/125476821/229444754-32cc9d23-a802-46f7-a083-58e74043cc1a.png)
 
-## AZURE Portal
+## AZURE Services
+
+## Static Web App
 ![image](https://user-images.githubusercontent.com/125476821/236499393-4023cd9a-9262-41b6-af83-bcffdd5a2e46.png)
+## Azure Health Bot
+![image](https://user-images.githubusercontent.com/125476821/236503806-c747f09b-17cb-4552-8056-5640e18ace5f.png)
 
 
 ## Project Demo URL : https://satyammishra2407.github.io/frtProject.github.io/
