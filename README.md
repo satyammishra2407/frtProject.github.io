@@ -15,7 +15,7 @@ In my website, I have tell all the practices help countries grow in ways that ad
 
 
 ## About
-![image](https://user-images.githubusercontent.com/125476821/229444456-de9da920-c0ac-42c8-8897-69936e06e414.png)
+![image](https://user-images.githubusercontent.com/125476821/236498878-da2fbf1b-437c-442c-9a35-ab1570406068.png)
 
 ![image](https://user-images.githubusercontent.com/125476821/229444538-13375564-cfca-4c69-a1b9-28c6eb8a6255.png)
 
